@@ -62,4 +62,4 @@ Popup modal management
 
 This project is deployed on GitHub Pages:
 
-- ADD LINK HERE
+https://github.com/AshleySiri/se_project_todo-app.git
