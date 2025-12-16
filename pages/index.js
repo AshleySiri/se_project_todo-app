@@ -9,8 +9,6 @@ import TodoCounter from "../components/TodoCounter.js";
 
 const addTodoButton = document.querySelector(".button_action_add");
 
-const todoCounter = new TodoCounter(initialTodos, ".counter__text");
-
 const generateTodo = (data) => {
   const todo = new Todo(data, "#todo-template");
   return todo.getView();
