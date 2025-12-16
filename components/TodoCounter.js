@@ -13,6 +13,7 @@ class TodoCounter {
     } else {
       this._completed -= 1;
     }
+
     this._updateText();
   }
 
@@ -22,6 +23,7 @@ class TodoCounter {
     } else {
       this._total -= 1;
     }
+
     this._updateText();
   }
 
