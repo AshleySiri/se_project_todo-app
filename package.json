@@ -1,0 +1,20 @@
+{
+  "name": "se_project_todo-app",
+  "version": "1.0.0",
+  "description": "This is a lightweight Todo Manager that allows users to create, display, and remove tasks with optional due dates. Todos are fully interactive — they include completion toggling, validation, and dynamic UI rendering.",
+  "homepage": "https://github.com/AshleySiri/se_project_todo-app#readme",
+  "bugs": {
+    "url": "https://github.com/AshleySiri/se_project_todo-app/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AshleySiri/se_project_todo-app.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
